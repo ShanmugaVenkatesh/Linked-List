@@ -17,3 +17,8 @@ Node --> contains (Data,address/pointer)
 data--> can be of any data-type like int,float,double,char.
 pointer --> stores the address of the next node.
 head pointer --> stores the address of the 1st node.
+
+## Circular Linked List
+1. It is a Single linked list
+2. Last node will have the address of the first node
+3. Nodes are arranged in circular fashion
